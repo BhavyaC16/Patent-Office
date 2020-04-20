@@ -19,3 +19,8 @@ Run the following commands:
  ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'admin';
  ```
   - Finally, cd into the repository and run `python3 test.py`
+  
+  ## Resources
+  
+   - https://opensource.com/article/18/4/flask
+   - https://codeburst.io/flask-for-dummies-a-beginners-guide-to-flask-part-uno-53aec6afc5b1
