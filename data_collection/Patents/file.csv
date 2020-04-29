@@ -1,0 +1,464 @@
+Title,Subject,Inventors
+"Biotechnology, medicine, and computer science",Computer Science,Lillian L. Burt
+Neuron networks and machine learning,Computer Science,Lois F. Cantrell
+Big data analysis,Computer Science,Lisandra V. Lopez
+Virtual reality and its connection to human perception,Computer Science,Hayes K. Holder
+The success of computer-assisted education,Computer Science,Molly A. Brennan
+Computer assistance in support services,Computer Science,Willa Q. Nunez
+Database architecture and management,Computer Science,Anthony O. Sweeney
+Human-computer interactions. The importance of usability,Computer Science,Preston S. Sims
+The limits of computation and communication,Computer Science,Solomon I. Mathis
+Computers and media. Where is the line between art and math modeling?,Computer Science,Martena Q. Powell
+Why there are so much programming languages?,Computer Science,Elton P. Sheppard
+Digital security versus private information,Computer Science,Samuel Z. Hicks
+Encrypting and decrypting,Computer Science,Claudia S. England
+Quantum computers. Are they the future?,Computer Science,Neve E. Sheppard
+Is the evolution of search algorithms finished?,Computer Science,Wynter J. Farley
+The importance of open source software,Computer Science,Dorian H. Foreman
+Portable gadgets and the peculiarities of software development for them,Computer Science,Cedric A. Logan
+Cloud storages: advantages and disadvantages,Computer Science,Michelle R. Hyde
+Computer viruses: the main principles of work and the hazards,Computer Science,Uriel G. Lester
+"DDOS attacks, their danger on the global scale and their prevention",Computer Science,Dexter P. Stark
+Is SCRUM methodology the best-invented one for computer science?,Computer Science,Drake F. Morrison
+The online medicine apps: can they sometimes substitute the treatment of real doctors?,Computer Science,Vivien N. Patterson
+5G Wireless System: is it the future?,Computer Science,Grace A. Workman
+"Windows, macOS, UNIX – what OS is the most perspective now?",Computer Science,Preston D. Gallegos
+Biometric systems and recognizing,Computer Science,Clinton N. Nash
+Ethical hacking. Who are the “white hat hackers”?,Computer Science,Aretha Q. Snider
+Cyborgs: is it sci-fi or nearest future?,Computer Science,Connor Y. Alvarado
+The ATM and bank security,Computer Science,Yvette N. Walsh
+The evolution of torrents,Computer Science,Ezra G. Preston
+What is blockchain?,Computer Science,Kathleen L. Steele
+"The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",AI & ML,Kaye J. Delaney
+Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations,AI & ML,Tanya U. Mcmahon
+Meta-Learning Update Rules for Unsupervised Representation Learning,AI & ML,Mark M. Carhart
+On the Variance of the Adaptive Learning Rate and Beyond,AI & ML,"Andrei Shleifer, Robert W. Vishny"
+XLNet: Generalized Autoregressive Pretraining for Language Understanding,AI & ML,"Rafael La Porta, Florencio Lopez-De-Silanes, Andrei Shleifer"
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations,AI & ML,"NARASIMHAN JEGADEESH, SHERIDAN TITMAN"
+Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems,AI & ML,"EUGENE F. FAMA, KENNETH R. FRENCH"
+A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction,AI & ML,"RAFAEL LA PORTA, FLORENCIO LOPEZ-DE-SILANES, ANDREI SHLEIFER, ROBERT W. VISHNY"
+Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning,AI & ML,MICHAEL C. JENSEN
+Learning Existing Social Conventions via Observationally Augmented Self-Play,AI & ML,Edward I. Altman
+The history of mathematics,Mathematics,"Kent Daniel, David Hirshleifer, Avanidhar Subrahmanyam"
+Greek math theories and inventions,Mathematics,"EUGENE F. FAMA, KENNETH R. FRENCH"
+The math of ancient great buildings,Mathematics,"WERNER F. M. De BONDT, RICHARD THALER"
+The math of Universe. Universal constants,Mathematics,"LAWRENCE R. GLOSTEN, RAVI JAGANNATHAN, DAVID E. RUNKLE"
+Astronomy and math. How can we know about what we have never seen?,Mathematics,"Ronald C. Anderson, David M. Reeb"
+The greatest mathematicians and their role in the history,Mathematics,"RAGHURAM G. RAJAN, LUIGI ZINGALES"
+The greatest math invention in history,Mathematics,Harry Markowitz
+Euclidean and non-Euclidean geometries. Going beyond the space we used to,Mathematics,William Vickrey
+Unsolved problems in math,Mathematics,"Andrei Shleifer, Robert W. Vishny"
+Math and Quantum theory,Mathematics,William F. Sharpe
+Math and Philosophy,Mathematics,"Ravi Bansal, Amir Yaron"
+Art and math: are they connected?,Mathematics,"MALCOLM BAKER, JEFFREY WURGLER"
+Algebra,Mathematics,"ANDREW ANG, ROBERT J. HODRICK, YUHANG XING, XIAOYAN ZHANG"
+Number theory,Mathematics,"MITCHELL A. PETERSEN, RAGHURAM G. RAJAN"
+Math and the AI concepts,Mathematics,"Harrison Hong, Jeremy C. Stein"
+Math in nature,Mathematics,"Rafael La Porta, Florencio Lopez-De-Silanes, Andrei Shleifer, Robert Vishny"
+Math in our daily life,Mathematics,"SHERIDAN TITMAN, ROBERTO WESSELS"
+Math and Probabilities,Mathematics,"Kristin J. Forbes, Roberto Rigobon"
+Fundamental mathematical theorems,Mathematics,"Stijn Claessens, Simeon Djankov, Joseph P. H. Fan, Larry H. P. Lang"
+Sports and math,Mathematics,EUGENE F. FAMA
+Is Math unique for humans only?,Mathematics,"JOSEF LAKONISHOK, ANDREI SHLEIFER, ROBERT W. VISHNY"
+STEM Education: why math is so important?,Mathematics,Terrance Odean
+Math and formal logic,Mathematics,Robert C. Merton
+The math of time,Mathematics,"Brad M. Barber, Terrance Odean"
+Math and gender,Mathematics,"Erik R. Sirri, Peter Tufano"
+Thermoelectric materials,Chemistry,ROBERT C. MERTON
+Enhanced performance separators,Chemistry,RAGHURAM G. RAJAN
+The chemical properties of the artificial organic tissues,Chemistry,"TIM LOUGHRAN, JAY R. RITTER"
+Environmental toxicology,Chemistry,JAY R. RITTER
+Bioconjugates in chemical biology,Chemistry,"Malcolm Baker, Jeffrey Wurgler"
+Chemistry of nanoreactors,Chemistry,PAUL C. TETLOCK
+Chemical neuroscience and behaviour,Chemistry,Edward M. Miller
+Atmospheric physical chemistry,Chemistry,"ROBERT F. ENGLE, VICTOR K. NG"
+Enzymology in chemical toxicology,Chemistry,"François Longin, Bruno Solnik"
+Process intensification,Chemistry,G. WILLIAM SCHWERT
+Adverse outcome pathways,Chemistry,"ULRIKE MALMENDIER, GEOFFREY TATE"
+Battery science and technology,Chemistry,"Campbell R. Harvey, Akhtar Siddique"
+Photons and physical chemistry,Chemistry,Michael C. Jensen
+Climate chemistry,Chemistry,"MILTON HARRIS, ARTUR RAVIV"
+Ionization methods in mass spectrometry,Chemistry,"Joshua D. Coval, Tobias J. Moskowitz"
+Pesticides and their chemical influence,Chemistry,"David Easley, Maureen O'hara"
+Food dyes and their chemistry,Chemistry,"Narasimhan Jegadeesh, Sheridan Titman"
+The chemistry of allergy,Chemistry,David Sloan
+Bonding of fluorine and inert gases,Chemistry,E. A. Baltz
+Methods of stabilising lithium to prevent its corrosion on contact with oxygen,Chemistry,M. J. Owens
+A look at surface tension and its implications for the future of transportation,Chemistry,Fangfang Wei
+Beryllium and its ability to ameliorate the strengths of other metals to which it is added,Chemistry,Yakov Galutin
+A look at the use of hydrogen in discovering the presence of oxygen,Chemistry,Junliang Dong
+Exploring the differences and similarities between ionic and covalent bonds,Chemistry,K. Yoshimatsu
+The ramifications of silicon as a semiconductor being used heavily in the practice of cosmetic surgery,Chemistry,Takuya Miwa
+The history of politics: when and how it was created and how it evolved,Political Science,Robin Diekmann
+The politics and war history: is every war a political decision?,Political Science,Carlos Sabín
+Political science overview. Basics and methodology,Political Science,Chenchen Zhang
+Political Psychology,Political Science,Dianmin Lin
+The influence of cultural norm on politics,Political Science,Sandeep Munjal &
+Politics and religion: is politics always rational?,Political Science,Riccardo Marchetti
+The prominent personalities in politics (choose the country and timeframe),Political Science,Jong-Young Hong
+The political decisions that changed the history,Political Science,Hongsheng Zhang
+The causes and consequences of civil wars,Political Science,Seungyeop Choi
+Is terrorism a political instrument?,Political Science,Taichi Morita
+The importance of social movements in politics,Political Science,Ivan Kruglov
+Populism: what is it and how does it work?,Political Science,T. L. Jin
+Totalitarian regimes: similarities and differences,Political Science,Qianli Chen &
+Divided governments: examples and principles of work,Political Science,Jen-Hsiang Hsieh
+The types and peculiarities of electoral systems,Political Science,Joya Zeitouny
+"Federalism, Confederalism and Unitary Systems. Why such form appear and how they operate?",Political Science,Raouf Dridi &
+Presidential republics versus parliamentary republics,Political Science,Asir Intisar Khan
+The ancient and modern examples,Political Science,Unai Alvarez-Rodriguez
+Interstate affairs. Wars and diplomacy,Political Science,Richard C. Ordonez
+International political economy,Political Science,Linpeng Dong
+Global politics. Environment and resource preserving,Political Science,Joanna Oracz
+The code of honor and loyalty oaths,Political Science,Cristian Farías
+The concept of open society and politics,Political Science,Amedeo Balbi &
+Corruptions in politics and the ways to eliminate it,Political Science,Peter Broecker
+Positivism: pros and cons,Political Science,Benyamin Davaji
+Constructivism: pros and cons,Political Science,A. Soloviev
+Politics in media,Political Science,Bi-Yi Wu
+The role of public relations in politics,Political Science,S. Harrison &
+Nationalism versus globalization,Political Science,Hamid T. Chorsi
+Rational Choice Theory,Political Science,Alexander N. Tait
+Does the politics change when the morals of the society evolve?,Political Science,Taha Ayari
+Cultural pluralism,Political Science,Z. H. Liu
+The concept of common good and its impact on the politics,Political Science,Fangzheng Zhang
+The politics during peace and wartime,Political Science,Mausumi Dikpati
+Nonstate actors on international political arena,Political Science,Zhao Jin
+Why the result of exit polls is usually different from the result of actual elections?,Political Science,S. Lang
+The philosophy of politics,Political Science,J. D. Clarkson
+The impact of political scandals,Political Science,M. V. Jabir &
+Political anthropology,Political Science,Ni Cui
+Worldwide political dependencies,Political Science,Ganesh Hegde &
+Food preferences and sociology, Sociology,R. Lopez-Delgado
+Youth subcultures, Sociology,Frederic Català
+The phenomenon of hooligans, Sociology,Shuping Wang
+Gender sociology, Sociology,Nabil Mohammad
+Mass protests, Sociology,Brian J. Frey
+Secret communities and cults, Sociology,S. von Malottki
+Assimilation or synthesis of the new culture?, Sociology,Kelvin J. A. Ooi
+Life quality level, Sociology,Haemin Kim &
+Calculating risks in sociology, Sociology,Iaroslav Gnilitskyi
+Sociology of minorities, Sociology,Chaoyang Ti
+Sociology of senior age and dying, Sociology,Elena Facco
+Sociology of childhood, Sociology,Yin Zhang
+Family in sociology, Sociology,Sunmi Shin
+Personality types, Sociology,C. D. W. Mosley
+Behaviour in groups, Sociology,K. Terada
+"Involuntary groups (e.g. prison cells, school classes etc)", Sociology,Yeonwoo Shin
+Social hierarchy, Sociology,Hyun-Cheol Song
+Strategies of relationships, Sociology,Christian Huber
+Sociology and psychology, Sociology,A. Velea
+Sociology of conflicts, Sociology,Romain Chevallier
+Sociology of disasters, Sociology,Nirakar Poudel
+Sociobiology, Sociology,Yong Meng Sua
+Can human social patterns apply to some animals?, Sociology,Jierong Cheng
+Criminal sociology, Sociology,Caterina Braggio
+Sociology of violence, Sociology,Jagyeong Kim
+Altruism in sociological terms, Sociology,Takuya Ohzono
+Sociology of workspace, Sociology,Abdoulaye Ba
+Military sociology, Sociology,George F. R. Chen
+Sex and sociology, Sociology,Tatsuya Shoji
+Political sociology, Sociology,Hyun Jeong
+The sociology of religion, Sociology,Takayuki Shiino
+"Sociology of gambling, game addiction and other dependencies", Sociology,S. K. Adhikari
+Sociology and propaganda, Sociology,Ming-Hsuan Kao
+Sociology and busines, Sociology,Lunwu Zeng
+Juvenile delinquency, Sociology,G. G. Paschos
+What is communication? The birth of the media as we know it,Media,Yuri M. Efremov
+"Media, Censorship and Propaganda",Media,Gurpreet Singh
+The freedom of speech and its impact on the media,Media,Toshiaki Tanigaki
+The main aspects of communication,Media,Tsai-Chen Wu
+The triggering topics. What do you need to start an instant “holywar” in media?,Media,Shane Colburn
+The phenomenon of hype and its usage of the media,Media,Hua Zhu
+Single bloggers versus media companies,Media,Masahiro Haze
+Communication and media psychology,Media,T. R. Raddo
+The history of advertising and its important in the modern business,Media,Shihong Huang
+The popular culture in the media,Media,Cheng Wei Shih &
+Video games. Can they be considered a media now?,Media,Martin Jirka
+Violence and controversial topics. Shall the media censor it out?,Media,Filipe Matusalem
+The peculiarities of children media,Media,Farabi Bozheyev
+Are the videoblogs the new diaries?,Media,K. Zeissler
+Mainstream media versus arthouse,Media,Yanlong Shen
+What is the age of post-truth in the media?,Media,Robert G. Endres
+Social networks as the main way of communication in the modern world,Media,Hyeryun Kim
+Why exclusive material is so important in the media?,Media,Jocelyn T. Marsh
+Fandom and fanfiction in the media,Media,Patricia Z. Patton
+Mass Communication Laws in different countries,Media,Chandler L. Hester
+Media and disasters: enhancing panic or preventing it?,Media,Ann N. Wade
+Terrorism in the media,Media,George F. Arnold
+Changes in the media during the wartime,Media,Hermione M. Moore
+Journalism ethics: what is it?,Media,Mara F. Larson
+International journalism,Media,Fuller D. Morton
+Journalists on the battlefield,Media,Timothy N. Contreras
+Media policy and regulation in different countries,Media,Katell N. Weaver
+How did the Internet influence media development?,Media,Signe A. Velasquez
+Media: reacting to the events or creating them?,Media,Berk N. Garrett
+Virtual reality: may it be the future of the media?,Media,Hayden F. Roy
+Media downshifting: why do people revert to newspapers again?,Media,Edan T. Quinn
+Social media marketing campaigns,Media,Quemby P. Nielsen
+"Media, politics and public relations",Media,Miriam R. Romero
+The styles and types of media. How they differ depending on the audience they are aiming for?,Media,George U. Fisher
+The phenomenon of Disney. Media or the new mythology?,Media,Raja L. Garner
+Scientific journalism: shall science be popular?,Media,Bethany B. Craft
+Media for educational purpose,Media,Aidan Z. Callahan
+Radio media: why radio is still popular?,Media,Zenaida Z. Holden
+Hidden messages in the media made for entertainment,Media,Bertha H. Hoover
+Media images of the representatives of different countries,Media,Colin N. Ryan
+The industrial revolution in your country and worldwide,History,Garrison Y. Sharpe
+The impact of Martin Luther King’s speech,History,Ria Y. Franks
+The French Revolution. The establishment of the principles of democracy in France,History,Uriel V. Wilcox
+American Revolution and building of American society,History,Ross O. Callahan
+"The Vietnam War, its causes, consequences, and scars it left",History,Fletcher O. Howard
+The creation and failure of the Weimar Republic,History,Owen I. Cruz
+American foreign policy from the beginning of the 21st century,History,Olga D. Kim
+The cold war and its consequences for the world,History,Nicholas M. Hall
+Battle of Hastings and its role in the history of England,History,Taylor Z. Terry
+The Crusades and the Jihads. Similarities and differences,History,Libby H. Fulton
+The process of abolition of slavery and its meaning for the world,History,Jameson A. Flores
+The ideas of Communism and their influence on the world,History,Kyra H. Gonzalez
+British colonialism in India,History,Piper G. Casey
+The Crusades and the Jihads. Similarities and differences,History,Fitzgerald M. Guerrero
+The rise of independent African countries,History,Taylor J. Hancock
+The Holy Roman Empire,History,Simone X. Lewis
+The phenomenon of hippie culture: did it have a huge impact?,History,Carolyn G. Ware
+Monasteries and education during the Middle Ages,History,Simone D. Pena
+Japanese economic wonder: can it be repeated?,History,Christian J. Burks
+The development of the People’s Republic of China,History,Blair Q. Sherman
+The Caribbean in the golden age of pirates,History,Joshua Z. Frazier
+The most prominent queens of ancient Egypt,History,Keegan Y. Bray
+The culture of the Roman Empire in comparison to ancient Greece,History,Calista K. Ratliff
+What made ancient Sparta so different from other cities?,History,Gwendolyn C. Hood
+The trading routes of the Renaissance period,History,Lester T. Johnson
+The colonization of America,History,Dillon P. Alvarado
+The importance of sports games in ancient times,History,Ariana E. Kent
+The political power of Pope in the Middle Ages,History,Simon I. Castro
+The history of propaganda from ancient times to modern days,History,Reuben A. Knowles
+The changes in the economies of Europe after World War I,History,Isabelle G. Hahn
+Sexual revolution: causes and consequences,History,Jarrod W. Wall
+The policy of installing applications to the phones and tables,Cyber Security,Lois I. Cole
+"Security measures in Windows, Unix and MacOS",Cyber Security,Bernard W. Gallegos
+Encrypting viruses,Cyber Security,Suki F. Yang
+Loss of data and its restoration,Cyber Security,Ella F. Hampton
+The process of authentication,Cyber Security,Joy U. Blake
+Data encryption algorithms,Cyber Security,Timothy H. Alford
+The ways of network intrusion and their detection and prevention,Cyber Security,Mark J. Raymond
+Itsand security measures,Cyber Security,Alec H. Porter
+The most prominent pandemics of cyber viruses,Cyber Security,Willa Q. Nunez
+White hat and black hat hackers: who are they?,Cyber Security,Anthony O. Sweeney
+Phishing and scam in the Internet,Cyber Security,Preston S. Sims
+Social networks and digital security,Cyber Security,Solomon I. Mathis
+Revenge porn and blackmailing in the Internet,Cyber Security,Martena Q. Powell
+What is firewall and how it helps to protect the network?,Cyber Security,Elton P. Sheppard
+"Cookies, privacy and cyber security",Cyber Security,Samuel Z. Hicks
+Identity theft in the Internet,Cyber Security,Claudia S. England
+The strategies of password,Cyber Security,Neve E. Sheppard
+Device synchronisation and protection,Cyber Security,Wynter J. Farley
+Terms and conditions in the software,Cyber Security,Dorian H. Foreman
+Digital piracy and security,Cyber Security,Cedric A. Logan
+Laws against cyber crimes,Cyber Security,Michelle R. Hyde
+Cyber security while downloading files,Cyber Security,Uriel G. Lester
+Social engineering and its importance,Cyber Security,Dexter P. Stark
+Software updates and patches and their importance,Cyber Security,"Jensen, Nola B."
+The most well-known closed vulnerabilities,Cyber Security,"Walton, Sean B."
+The emergency actions after hacking,Cyber Security,"Morin, Rahim U."
+The main causes of cyber crimes,Cyber Security,"Bryant, Teagan J."
+Biometrics and cyber security,Cyber Security,"Snow, Hamilton B."
+Bots and cyber security,Cyber Security,"Jimenez, Bree E."
+"The unified user profiles, their advantages and dangers",Cyber Security,"Bailey, Octavius Z."
+Design integration in campus planning,Architecture,"Powell, Hiroko I."
+Use of lightweight architecture in advanced structures.,Architecture,"Swanson, Heather B."
+The importance of parametric designing in modern architecture.,Architecture,"Branch, Ramona I."
+The significance of sanctuaries for the preservation of wildlife in urban areas.,Architecture,"Yates, Kylee J."
+The construction process of Egyptian pyramids.,Architecture,"Lynch, Price A."
+Best designs for shared accommodations.,Architecture,"Nolan, Neve J."
+The importance of sustainable urban development.,Architecture,"Mueller, Raven R."
+The influence of Islamic architecture on the design of structures in the UAE.,Architecture,"Thomas, Ishmael R."
+The impact of historic French art and architecture on modern designs.,Architecture,"Wiggins, Zahir P."
+Best designs for restaurants for revitalization of urban areas.,Architecture,"Nicholson, Keane Q."
+The effect of IoT on urban architectural design.,Architecture,"Spears, Carter P."
+Best designing for maximum building space utilization.,Architecture,"Obrien, Cecilia W."
+Important things to consider for resilient design.,Architecture,"King, Kelly M."
+Conservation as a way of sustaining cultural heritage.,Architecture,"Hardin, Oleg I."
+Best practices for school planning in rural areas.,Architecture,"Leonard, Amethyst V."
+The impact of unlimited housing developments on the environment.,Architecture,"Good, Ethan M."
+A smart approach to the designing of a transport system to regulate traffic congestion.,Architecture,"Griffith, Ethan W."
+The origins of Islamic architecture.,Architecture,"Moody, Lila L."
+The influence of classical art on modern architecture.,Architecture,"Frazier, Lucas T."
+A comparison of materials used in ancient and modern architecture.,Architecture,"Warner, Kelsie D."
+Famous architects of the 20th,Architecture,"Bishop, Chastity E."
+Optimum balance between structural strength and aesthetic appeal.,Architecture,"Lindsey, Felicia P."
+Benefits of low-cost high-strength architecture.,Architecture,"Wilkins, Kevin Y."
+The effect of extreme weather conditions on the durability of architecture.,Architecture,"Wells, Signe N."
+The influence of European art on architecture.,Architecture,"Joseph, Walker L."
+Best practices in town planning.,Architecture,"Hood, Elliott S."
+Art as the prime influencer of architecture.,Architecture,"Riddle, Whoopi P."
+The impact of Islamic architecture on the modern structural design.,Architecture,"Andrews, Ruth I."
+The significance of arches for structural safety.,Architecture,"Juarez, Clementine M."
+Reconstruction of architectural heritage.,Architecture,"Schultz, Abbot S."
+The Impact of Politics of Colonialism on the Aborigines in Australia,Racism,"Ortiz, Jonah M."
+Causes and Effects of Racial Prejudice in the 1950s,Racism,"Oconnor, Haley X."
+Was the Women’s Movement of 1960 Successful to Unite White and Black Women?,Racism,"Woodard, Naomi I."
+Black Power Movement: Origins and History,Racism,"Phillips, Lev Q."
+Can We Call Malcolm X a Racist?,Racism,"Tillman, Kaye Z."
+The Main Reasons for Racial Prejudgments,Racism,"Goff, Lois L."
+Capitalism & Racism in Japan,Racism,"Sellers, Jenette J."
+The Theory of Protest by Socrates,Racism,"Ramsey, Chase D."
+Hate Crimes in the United States: Is Race a Factor?,Racism,"Woodward, Iona P."
+"The assassination of Martin Luther King, Jr.: Public Reaction",Racism,"Vazquez, Amanda L."
+Evolutionary-Psychological Perspective of Racism,Racism,"Knowles, Xenos M."
+Did Darwin offer racial ideas in his works?,Racism,"Chambers, Cameran J."
+The Roots of Racial Discrimination,Racism,"Yang, Mari N."
+Stereotypes and Prejudice: Compare & Contrast,Racism,"Oneill, Eden O."
+The Theory of Protest by Malcolm X,Racism,"Parks, Vanna R."
+Roots of Islamophobia in Different Parts of the World,Racism,"Hicks, Brady K."
+Proofs That Racism Still Exists in the US,Racism,"Dudley, Kennan F."
+"Prejudice, Police Brutality, and Racism: The Connection between Three",Racism,"Rhodes, Ivor P."
+Proper Education about Racism in Modern US Schools,Racism,"Knox, Mona B."
+What Countries Are the Most Racist?,Racism,"Barker, Xanthus A."
+Academic and Professional Barriers Caused by Racial Factors,Racism,"Davenport, Sage L."
+Oscars Boycott: Reasons and Outcomes,Racism,"Jacobson, Nelle I."
+The Best Approaches to Dealing with Racial Prejudices,Racism,"Schwartz, Shaine O."
+How Muslims Are Discriminated in the United States,Racism,"Bennett, Yardley B."
+The Context of Racism Speech (any of them),Racism,"Johnson, Caleb K."
+The Theory of Protest by Dr. King,Racism,"Coleman, Robert B."
+In-depth Analysis of “The Help” Film,Racism,"Sandoval, Raven L."
+Different Types of Racism,Racism,"Flores, Colette T."
+Defining Racism from Various Aspects,Racism,"Pruitt, Hamilton M."
+Explicit & Implicit Racial Biases,Racism,"Roman, Demetrius H."
+Report on the Significance of Certain Hormones Concerning the Body Functioning,Biology,"Norton, Mufutau Z."
+Cell Structure & Antibiotic Resistance,Biology,"Britt, Clementine Z."
+Hormones Influence on Mind and Behavior,Biology,"Klein, Carla X."
+How Hormones Contribute to Depression,Biology,"Roy, Kennan Y."
+Hormonal Changes During Pregnancy,Biology,"Horn, Jason H."
+Psychological Disorders: The Biological Basis,Biology,"Holland, Aiko X."
+Biology Behind the Bipolar Disorder,Biology,"Atkins, Cassady Z."
+Cortisol and Testosterone Influence Risk-Taking,Biology,"Chambers, Darryl X."
+Current Oxytocin Science,Biology,"Graham, Fitzgerald K."
+Oxytocin and Fear Reaction,Biology,"French, Aphrodite F."
+Endocrine-Related Diseases,Biology,"Shaffer, Joy C."
+How Hormones Affect Human Behavior,Biology,"Bentley, Elvis W."
+Hormonal Control of Reproductive System,Biology,"Sexton, Charde S."
+Influence of Hormonal Therapy,Biology,"Waters, Hiroko R."
+Endocrinology and Metabolism,Biology,"Avery, Marvin Q."
+Hormone-Specific Psychopathic Disorders,Biology,"Brewer, Nina E."
+Melatonin in Therapy,Biology,"Vega, Constance M."
+Steroid Hormones’ Path to Cells,Biology,"Crane, Leah H."
+Cardio Exercise Influence Hormones,Biology,"Fitzgerald, Brock F."
+Oxytocin in Treatment Psychopathic Disorders,Biology,"Charles, Doris U."
+How Hormones Influence Women’s Mental Health,Biology,"Ferguson, Melinda F."
+Gender Specifics Related to Mental Health,Biology,"Marsh, Dillon C."
+Human Immune System and Its Resistance Capabilities,Biology,"Blake, Hunter K."
+How Do Immune System Agents Function?,Biology,"Mann, Karleigh C."
+Discovering Diseases Caused by Immune System not Functioning Good,Biology,"Kelley, Cade H."
+Immunity & Stress,Biology,"Luna, Dalton H."
+Tolerance & Autoimmunity,Biology,"Perry, Vance U."
+Asthma & Allergic Reactions,Biology,"Durham, Kyle S."
+Immunotherapy Influence on Human Body,Biology,"Burt, Garrison X."
+Immunology & Transplantation,Biology,"Goff, Colton D."
+Graft Rejection Prevention,Biology,"Frederick, Wendy P."
+Vaccination: Are There Any Real Benefits?,Biology,"Quinn, Ciara C."
+The Society’s Perspective on Vaccination,Biology,"Patel, Imogene B."
+Natural Disease Resistance in Plants,Biology,"Gilmore, Rowan C."
+The Prevention Measures in Plant Pathology,Biology,"Booth, Xenos H."
+Research on Plant-Associated Microbes and Current Genomic Tools,Biology,"Greer, Alexander C."
+Literature Review on Microbial Ecology and Evolution,Biology,"Pittman, Laith F."
+Plant Diseases Management Facilitated by Modern Technology,Biology,"Everett, Beau E."
+Plant Evolutionary Genetics,Biology,"Roy, Armand K."
+Weedy & Invasive Plants,Biology,"Livingston, Gray X."
+Photosynthesis: Aspects & Functions,Biology,"Best, Dean F."
+Fertilizers’ Influence on Plants,Biology,"Larson, Regan A."
+Ecological and Evolutionary Factors Influencing Animal Behavior,Biology,"Bullock, Laurel Q."
+Essay on Relationship Between Living Forms and Their Environment,Biology,"Webb, Jasmine C."
+The Affect of Human Behavior on Animal Forms in the USA,Biology,"Reeves, Talon D."
+The Ways Animal and Plants Respond to Changing Environment,Biology,"Mccarty, Edward B."
+Developmental Mechanism of Resistance in Animals,Biology,"Mendoza, Prescott O."
+The Environmental Change and its Involvement in the Diversity of Species,Biology,"Russell, Calista X."
+Is Global Warming Really a Threat?,Biology,"Knapp, Daryl R."
+Fast Food Industry & Tropic Forests Extinction,Biology,"Briggs, Audrey G."
+Environmental Psychology,Biology,"Bridges, Isaiah B."
+Means of Wildlife Protection,Biology,"Woodard, Sybil K."
+Impact of Rain Forests Extinction,Biology,"Marshall, Cadman H."
+Rare Species Protection,Biology,"Hess, Winifred I."
+The Problem of Extinction,Biology,"Battle, Imelda S."
+Renewable Energy and Environment’s Pollution,Biology,"Sanchez, Rigel G."
+Climate Change and Biodiversity,Biology,"Lester, Stewart B."
+Types of Pollution in Modern World,Biology,Camille Abboud
+What is Sustainability in Biology?,Biology,Christopher Abraham
+Non-human factors of Extinction of Species,Biology,"Odom, Malik P."
+Benefits of Ecotourism,Biology,"Whitaker, Orson Y."
+Is Extinction of Bees Real?,Biology,"Key, Steel E."
+Oil Spill Effects on Ocean Wildlife,Biology,"Foreman, Baxter L."
+Factors and benefits of Organic Farming,Biology,"Cooke, Dieter E."
+Visual Cortex & Models of Orientation,Neuro-Biology,"Byers, Jillian U."
+Neuroscience in Robotic Technologies,Neuro-Biology,"Gallagher, Ira W."
+What is Visual-Motor Coordination Based On?,Neuro-Biology,"Holland, Kato U."
+Impact of Music on Human Brain,Neuro-Biology,"Hernandez, Owen A."
+Brain Injuries and Related Disorders,Neuro-Biology,"Yates, Scott B."
+Brain and Memory,Neuro-Biology,"Warner, Nehru G."
+Brain Capabilities of Self-Repairing,Neuro-Biology,"Riggs, Vernon R."
+Genetic Defect That Contributes to Schizophrenia,Neuro-Biology,"Molina, Louis V."
+Factors and Causes Behind a Migraine,Neuro-Biology,"Hensley, Stephanie F."
+Connection Between Gut Bacteria and Anxiety,Neuro-Biology,"White, Beverly V."
+Can Gut Bacteria Contribute to Depression?,Neuro-Biology,"Bright, Jade R."
+Cognitive Neuroscience on Problem-Solving,Neuro-Biology,"Wong, Dorothy C."
+Genes and Proteins Responsible for Neurons functioning,Neuro-Biology,"Michael, Chantale M."
+Factors Concerning Animal Growth,Biology,"Vazquez, Madison C."
+The Obesity in Home Pets,Biology,"Randolph, Diana K."
+Traditional Dog Diet and Modern Home Pets,Biology,"Ferrell, Lani E."
+Male Pregnancy Among Animals,Biology,"Freeman, Noel W."
+Is Beauty Products Testing on Animals Ethical?,Biology,"Fields, Mary G."
+Birds Behavioral Study,Biology,"Head, Pascale U."
+Animal Science & Food Sustainability,Biology,"Bernard, Maite M."
+Does Veganism Actually Influence Meat Production?,Biology,"Day, Lesley V."
+Wild Animal Projects,Biology,"Snow, Hamilton B."
+Fashion Industry & Animal Abuse,Biology,"Jimenez, Bree E."
+Camouflage Mechanism in Sea Animals,Biology,"Bailey, Octavius Z."
+Discovering Primate Language and Cognitive Function,Biology,"Powell, Hiroko I."
+The History of Genetics,Biology,"Swanson, Heather B."
+Darwin’s Theory and Biology,Biology,"Branch, Ramona I."
+Discovering Evolution Factors,Biology,"Yates, Kylee J."
+How Archeology Impacts Animal Biology?,Biology,"Lynch, Price A."
+Natural Selection Theory: The Discovery and Its Impact,Biology,"Nolan, Neve J."
+Effects of Whale Hunting,Biology,"Mueller, Raven R."
+Dead Branches of Evolution,Biology,"Thomas, Ishmael R."
+Famous Biologist Antonie van Leeuwenhoek,Biology,"Wiggins, Zahir P."
+Edward Jenner and the History of Vaccination,Biology,"Nicholson, Keane Q."
+Rachel Carson’s Perspective on Environmental Safety,Biology,"Spears, Carter P."
+Stephen Jay Gold’s Paleontology: How History and Biology are Combined,Biology,"Obrien, Cecilia W."
+Molecular and Genome Evolution,Biology,"King, Kelly M."
+Comparative Genomics,Biology,"Hardin, Oleg I."
+The Evolutionary Biology of Infectious Diseases,Biology,"Leonard, Amethyst V."
+Modern Technology and Scientific Tools in Biology,Biology,"Good, Ethan M."
+Neurobiological Explanation of Sleep,Biology,"Griffith, Ethan W."
+Symbiosis in Parasites,Biology,"Moody, Lila L."
+Metabolism & Physical Exercise,Biology,"Frazier, Lucas T."
+air quality monitoring,Electronics,"Shepard, Ethan V."
+Agro Weeder technology,Electronics,"Horne, Kamal U."
+iot based traffic control,Electronics,"Guthrie, Yolanda T."
+Voice Controlled Home Automation,Electronics,"Blackwell, Uta D."
+real time system,Electronics,"Johns, Vivien M."
+cadence design,Electronics,"Haynes, Francis S."
+automation of simulation,Electronics,"Hopkins, Ferdinand U."
+ADS Advanced Design System simulations,Electronics,"Farrell, Germane F."
+analog receiver,Electronics,"Dale, Madaline B."
+RECEIVER DESIGN USING ADS,Electronics,"Horton, Quincy O."
+electronic instruments,Electronics,"Barnes, Dawn K."
+robot-seminar topic and report,Electronics,"Valentine, Axel J."
+humanoid robot-seminar topic and report,Electronics,"Dunn, Kelly L."
+robotics-seminar topic and report,Electronics,"Kaufman, Nell I."
+home automation-seminar topic and report,Electronics,"Shepard, Ethan V."
+IOT-seminar topic and report,Electronics,"Horne, Kamal U."
+5G-seminar topic and report,Electronics,"Guthrie, Yolanda T."
+advanced communication system,Electronics,"Blackwell, Uta D."
+IOT Based Smart Energy,Electronics,"Johns, Vivien M."
+devops,Electronics,"Haynes, Francis S."
+QUADCOPTER-DESIGN-CONSTRUCTION-TESTING,Electronics,"Hopkins, Ferdinand U."
+energy optimization in wireless sensor network,Electronics,"Farrell, Germane F."
+metal detector robot,Electronics,"Dale, Madaline B."
+wireless internet service,Electronics,"Horton, Quincy O."
+military robot,Electronics,"Barnes, Dawn K."
+military robotics,Electronics,"Valentine, Axel J."
+Application of Image Processing in Military,Electronics,"Dunn, Kelly L."
+military applications of wireless sensor networks,Electronics,"Kaufman, Nell I."
+military applications artificial intelligence,Electronics,Camille Abboud
+secure automation system,Electronics,Christopher Abraham

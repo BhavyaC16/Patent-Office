@@ -1,0 +1,450 @@
+Application_ID,Applicant_ID,Name,Inventor,Applicant_Status
+249801,160000,"3 Round Stones, Inc.","3 Round Stones, Inc.",Company
+249802,160001,48 Factoring Inc.,48 Factoring Inc.,Company
+249803,160002,5PSolutions,5PSolutions,Company
+249804,160003,Abt Associates,Abt Associates,Company
+249805,160004,Accela,Accela,Company
+249806,160005,Accenture,Accenture,Company
+249807,160006,AccuWeather,AccuWeather,Company
+249808,160007,Acxiom,Acxiom,Company
+249809,160008,Adaptive,Adaptive,Company
+249810,160009,Adobe Digital Government,Adobe Digital Government,Company
+249811,160010,Aidin,Aidin,Company
+249812,160011,Alarm.com,Alarm.com,Company
+249813,160012,Allianz,Allianz,Company
+249814,160013,Allied Van Lines,Allied Van Lines,Company
+249815,160014,AllState Insurance Group,AllState Insurance Group,Company
+249816,160015,Alltuition,Alltuition,Company
+249817,160016,Altova,Altova,Company
+249818,160017,Amazon Web Services,Amazon Web Services,Company
+249819,160018,American Red Ball Movers,American Red Ball Movers,Company
+249820,160019,Amida Technology Solutions,Amida Technology Solutions,Company
+249821,160020,Analytica,Analytica,Company
+249822,160021,Apextech LLC,Apextech LLC,Company
+249823,160022,Appallicious,Appallicious,Company
+249824,160023,Aquicore,Aquicore,Company
+249825,160024,Archimedes Inc.,Archimedes Inc.,Company
+249826,160025,AreaVibes Inc.,AreaVibes Inc.,Company
+249827,160026,Arpin Van Lines,Arpin Van Lines,Company
+249828,160027,Arrive Labs,Arrive Labs,Company
+249829,160028,ASC Partners,ASC Partners,Company
+249830,160029,Asset4,Asset4,Company
+249831,160030,Atlas Van Lines,Atlas Van Lines,Company
+249832,160031,AtSite,AtSite,Company
+249833,160032,"Aunt Bertha, Inc.","Aunt Bertha, Inc.",Company
+249834,160033,Aureus Sciences (*Now part of Elsevier),Aureus Sciences (*Now part of Elsevier),Company
+249835,160034,AutoGrid Systems,AutoGrid Systems,Company
+249836,160035,Avalara,Avalara,Company
+249837,160036,Avvo,Avvo,Company
+249838,160037,Ayasdi,Ayasdi,Company
+249839,160038,Azavea,Azavea,Company
+249840,160039,BaleFire Global,BaleFire Global,Company
+249841,160040,Barchart,Barchart,Company
+249842,160041,Be Informed,Be Informed,Company
+249843,160042,Bekins,Bekins,Company
+249844,160043,Berkery Noyes MandASoft,Berkery Noyes MandASoft,Company
+249845,160044,Berkshire Hathaway,Berkshire Hathaway,Company
+249846,160045,BetterLesson,BetterLesson,Company
+249847,160046,BillGuard,BillGuard,Company
+249848,160047,Bing,Bing,Company
+249849,160048,Biovia,Biovia,Company
+249850,160049,BizVizz,BizVizz,Company
+249851,160050,BlackRock,BlackRock,Company
+249852,160051,Bloomberg,Bloomberg,Company
+249853,160052,Booz Allen Hamilton,Booz Allen Hamilton,Company
+249854,160053,Boston Consulting Group,Boston Consulting Group,Company
+249855,160054,Boundless,Boundless,Company
+249856,160055,Bridgewater,Bridgewater,Company
+249857,160056,Brightscope,Brightscope,Company
+249858,160057,BuildFax,BuildFax,Company
+249859,160058,Buildingeye,Buildingeye,Company
+249860,160059,BuildZoom,BuildZoom,Company
+249861,160060,Business and Legal Resources,Business and Legal Resources,Company
+249862,160061,Business Monitor International,Business Monitor International,Company
+249863,160062,"Calcbench, Inc.","Calcbench, Inc.",Company
+249864,160063,Cambridge Information Group,Cambridge Information Group,Company
+249865,160064,Cambridge Semantics,Cambridge Semantics,Company
+249866,160065,CAN Capital,CAN Capital,Company
+249867,160066,Canon,Canon,Company
+249868,160067,Capital Cube,Capital Cube,Company
+249869,160068,Cappex,Cappex,Company
+249870,160069,Captricity,Captricity,Company
+249871,160070,CareSet Systems,CareSet Systems,Company
+249872,160071,Careset.com,Careset.com,Company
+249873,160072,CARFAX,CARFAX,Company
+249874,160073,Caspio,Caspio,Company
+249875,160074,Castle Biosciences,Castle Biosciences,Company
+249876,160075,CB Insights,CB Insights,Company
+249877,160076,Ceiba Solutions,Ceiba Solutions,Company
+249878,160077,Center for Responsive Politics,Center for Responsive Politics,Company
+249879,160078,Cerner,Cerner,Company
+249880,160079,Certara,Certara,Company
+249881,160080,CGI,CGI,Company
+249882,160081,Charles River Associates,Charles River Associates,Company
+249883,160082,Charles Schwab Corp.,Charles Schwab Corp.,Company
+249884,160083,Chemical Abstracts Service,Chemical Abstracts Service,Company
+249885,160084,Child Care Desk,Child Care Desk,Company
+249886,160085,Chubb,Chubb,Company
+249887,160086,Citigroup,Citigroup,Company
+249888,160087,CityScan,CityScan,Company
+249889,160088,CitySourced,CitySourced,Company
+249890,160089,Civic Impulse LLC,Civic Impulse LLC,Company
+249891,160090,Civic Insight,Civic Insight,Company
+249892,160091,Civinomics,Civinomics,Company
+249893,160092,Civis Analytics,Civis Analytics,Company
+249894,160093,Clean Power Finance,Clean Power Finance,Company
+249895,160094,ClearHealthCosts,ClearHealthCosts,Company
+249896,160095,ClearStory Data,ClearStory Data,Company
+249897,160096,Climate Corporation,Climate Corporation,Company
+249898,160097,CliniCast,CliniCast,Company
+249899,160098,Cloudmade,Cloudmade,Company
+249900,160099,Cloudspyre,Cloudspyre,Company
+249901,160100,Code for America,Code for America,Company
+249902,160101,Code-N,Code-N,Company
+249903,160102,Collective IP,Collective IP,Company
+249904,160103,"College Abacus, an ECMC initiative","College Abacus, an ECMC initiative",Company
+249905,160104,College Board,College Board,Company
+249906,160105,Compared Care,Compared Care,Company
+249907,160106,Compendia Bioscience Life Technologies,Compendia Bioscience Life Technologies,Company
+249908,160107,Compliance and Risks,Compliance and Risks,Company
+249909,160108,Computer Packages Inc,Computer Packages Inc,Company
+249910,160109,CONNECT-DOT LLC.,CONNECT-DOT LLC.,Company
+249911,160110,ConnectEDU,ConnectEDU,Company
+249912,160111,Connotate,Connotate,Company
+249913,160112,Construction Monitor LLC,Construction Monitor LLC,Company
+249914,160113,Consumer Reports,Consumer Reports,Company
+249915,160114,CoolClimate,CoolClimate,Company
+249916,160115,Copyright Clearance Center,Copyright Clearance Center,Company
+249917,160116,CoreLogic,CoreLogic,Company
+249918,160117,CostQuest,CostQuest,Company
+249919,160118,Credit Karma,Credit Karma,Company
+249920,160119,Credit Sesame,Credit Sesame,Company
+249921,160120,CrowdANALYTIX,CrowdANALYTIX,Company
+249922,160121,Dabo Health,Dabo Health,Company
+249923,160122,DataLogix,DataLogix,Company
+249924,160123,DataMade,DataMade,Company
+249925,160124,DataMarket,DataMarket,Company
+249926,160125,Datamyne,Datamyne,Company
+249927,160126,DataWeave,DataWeave,Company
+249928,160127,Deloitte,Deloitte,Company
+249929,160128,DemystData,DemystData,Company
+249930,160129,Department of Better Technology,Department of Better Technology,Company
+249931,160130,Development Seed,Development Seed,Company
+249932,160131,"Docket Alarm, Inc.","Docket Alarm, Inc.",Company
+249933,160132,Dow Jones & Co.,Dow Jones & Co.,Company
+249934,160133,Dun & Bradstreet,Dun & Bradstreet,Company
+249935,160134,Earth Networks,Earth Networks,Company
+249936,160135,EarthObserver App,EarthObserver App,Company
+249937,160136,Earthquake Alert!,Earthquake Alert!,Company
+249938,160137,Eat Shop Sleep,Eat Shop Sleep,Company
+249939,160138,Ecodesk,Ecodesk,Company
+249940,160139,eInstitutional,eInstitutional,Company
+249941,160140,Embark,Embark,Company
+249942,160141,EMC,EMC,Company
+249943,160142,"Energy Points, Inc.","Energy Points, Inc.",Company
+249944,160143,Energy Solutions Forum,Energy Solutions Forum,Company
+249945,160144,Enervee Corporation,Enervee Corporation,Company
+249946,160145,Enigma.io,Enigma.io,Company
+249947,160146,Ensco,Ensco,Company
+249948,160147,Environmental Data Resources,Environmental Data Resources,Company
+249949,160148,Epsilon,Epsilon,Company
+249950,160149,Equal Pay for Women,Equal Pay for Women,Company
+249951,160150,Equifax,Equifax,Company
+249952,160151,Equilar,Equilar,Company
+249953,160152,Ernst & Young LLP,Ernst & Young LLP,Company
+249954,160153,eScholar LLC.,eScholar LLC.,Company
+249955,160154,Esri,Esri,Company
+249956,160155,Estately,Estately,Company
+249957,160156,Everyday Health,Everyday Health,Company
+249958,160157,Evidera,Evidera,Company
+249959,160158,Experian,Experian,Company
+249960,160159,"Expert Health Data Programming, Inc.","Expert Health Data Programming, Inc.",Company
+249961,160160,Exversion,Exversion,Company
+249962,160161,Ez-XBRL,Ez-XBRL,Company
+249963,160162,Factset,Factset,Company
+249964,160163,Factual,Factual,Company
+249965,160164,Farmers,Farmers,Company
+249966,160165,FarmLogs,FarmLogs,Company
+249967,160166,Fastcase,Fastcase,Company
+249968,160167,Fidelity Investments,Fidelity Investments,Company
+249969,160168,FindTheBest.com,FindTheBest.com,Company
+249970,160169,First Fuel Software,First Fuel Software,Company
+249971,160170,"FirstPoint, Inc.","FirstPoint, Inc.",Company
+249972,160171,Fitch,Fitch,Company
+249973,160172,FlightAware,FlightAware,Company
+249974,160173,FlightStats,FlightStats,Company
+249975,160174,FlightView,FlightView,Company
+249976,160175,Food+Tech Connect,Food+Tech Connect,Company
+249977,160176,Forrester Research,Forrester Research,Company
+249978,160177,Foursquare,Foursquare,Company
+249979,160178,Fujitsu,Fujitsu,Company
+249980,160179,Funding Circle,Funding Circle,Company
+249981,160180,FutureAdvisor,FutureAdvisor,Company
+249982,160181,"Fuzion Apps, Inc.","Fuzion Apps, Inc.",Company
+249983,160182,Gallup,Gallup,Company
+249984,160183,Galorath Incorporated,Galorath Incorporated,Company
+249985,160184,Garmin,Garmin,Company
+249986,160185,Genability,Genability,Company
+249987,160186,GenoSpace,GenoSpace,Company
+249988,160187,Geofeedia,Geofeedia,Company
+249989,160188,Geolytics,Geolytics,Company
+249990,160189,Geoscape,Geoscape,Company
+249991,160190,GetRaised,GetRaised,Company
+249992,160191,GitHub,GitHub,Company
+249993,160192,Glassy Media,Glassy Media,Company
+249994,160193,Golden Helix,Golden Helix,Company
+249995,160194,GoodGuide,GoodGuide,Company
+249996,160195,Google Maps,Google Maps,Company
+249997,160196,Google Public Data Explorer,Google Public Data Explorer,Company
+249998,160197,Government Transaction Services,Government Transaction Services,Company
+249999,160198,Govini,Govini,Company
+250000,160199,GovTribe,GovTribe,Company
+250001,160200,"Govzilla, Inc.","Govzilla, Inc.",Company
+250002,160201,gRadiant Research LLC,James Casebere Studio,Company
+250003,160202,Graebel Van Lines,Domenico Casella,Company
+250004,160203,"Graematter, Inc.",Raffaello Casellesi,Company
+250005,160204,Granicus,Tim Casey,Company
+250006,160205,GreatSchools,William Edmund Cash,Company
+250007,160206,GuideStar,William Vaughn Cash,Company
+250008,160207,H3 Biomedicine,John William Casilear,Company
+250009,160208,Harris Corporation,Alessandro Casolani,Company
+250010,160209,"HDScores, Inc",Alessandro di Agostino Casolani,Company
+250011,160210,Headlight,Felice Antonio Casone,Company
+250012,160211,Healthgrades,Antonio Casoni,Company
+250013,160212,Healthline,Felice Casorati,Company
+250014,160213,HealthMap,Karl Caspar,Company
+250015,160214,"HealthPocket, Inc.",Frank Cassara,Company
+250016,160215,HelloWallet,Mary Cassatt,Company
+250017,160216,HERE,Mary Stevenson Cassatt,Company
+250018,160217,Honest Buildings,Giovanni Maria Cassini,Company
+250019,160218,HopStop,Bruno Cassirer,Company
+250020,160219,Housefax,Joan Cassis,Company
+250021,160220,How's My Offer?,Jean Cassou,Company
+250022,160221,IBM,Andrea del Castagno,Company
+250023,160222,ideas42,Giovanni Bernardi da Castel Bolognese,Company
+250024,160223,iFactor Consulting,Giovanni da Castelbolognese,Company
+250025,160224,IFI CLAIMS Patent Services,Robert Castell,Company
+250026,160225,iMedicare,Julio Castellanos,Company
+250027,160226,Impact Forecasting (Aon),Bernardo Castelli,Company
+250028,160227,Impaq International,Bernardo Castello,Company
+250029,160228,Import.io,Frederico Castellon,Company
+250030,160229,IMS Health,Salvo Castellucci,Company
+250031,160230,InCadence,Giovanni Benedetto Castiglione,Company
+250032,160231,indoo.rs,Giuseppe Castiglione,Company
+250033,160232,InfoCommerce Group,Antonio del Castillo,Company
+250034,160233,Informatica,Liset Castillo,Company
+250035,160234,InnoCentive,James Castle,Company
+250036,160235,Innography,Alex Castro,Company
+250037,160236,Innovest Systems,Ray Caswell,Company
+250038,160237,Inovalon,Roy Caswell,Company
+250039,160238,Inrix Traffic,Pietro Cataneo,Company
+250040,160239,Intelius,Vincenzo Catenacci,Company
+250041,160240,Intermap Technologies,Mark Catesby,Company
+250042,160241,Investormill,Bernard Cathelin,Company
+250043,160242,Iodine,Elizabeth Catlett,Company
+250044,160243,IPHIX,George Catlin,Company
+250045,160244,iRecycle,Maria Harriet Elizabeth Cator,Company
+250046,160245,iTriage,Jacob Cats,Company
+250047,160246,IVES Group Inc,Danese Cattaneo,Company
+250048,160247,IW Financial,Patrick Caulfield,Company
+250049,160248,JJ Keller,Lillian Causey,Company
+250050,160249,J.P. Morgan Chase,Gilles Paul Cauvet,Company
+250051,160250,"Junar, Inc.",Kristen Cavagnet,Company
+250052,160251,Gianni Cacciarini,Gianni Cacciarini,Individual
+250053,160252,Giovanni Battista Caccini,Giovanni Battista Caccini,Individual
+250054,160253,Gerard Cachet,Gerard Cachet,Individual
+250055,160254,Alfred Cadart,Alfred Cadart,Individual
+250056,160255,Giuseppe Cades,Giuseppe Cades,Individual
+250057,160256,Paul Cadmus,Paul Cadmus,Individual
+250058,160257,Harrison Cady,Harrison Cady,Individual
+250059,160258,Ippolito Caffi,Ippolito Caffi,Individual
+250060,160259,John Cage,John Cage,Individual
+250061,160260,Guido Cagnacci,Guido Cagnacci,Individual
+250062,160261,Luigi Cagnola,Luigi Cagnola,Individual
+250063,160262,Marcelle Cahn,Marcelle Cahn,Individual
+250064,160263,Gustave Caillebotte,Gustave Caillebotte,Individual
+250065,160264,Jean Caillou,Jean Caillou,Individual
+250066,160265,Charles William Cain,Charles William Cain,Individual
+250067,160266,Fred Cain,Fred Cain,Individual
+250068,160267,Gasparo Cairano,Gasparo Cairano,Individual
+250069,160268,Earl of Caithness,Earl of Caithness,Individual
+250070,160269,il Calabrese,il Calabrese,Individual
+250071,160270,Alexandre Calame,Alexandre Calame,Individual
+250072,160271,Giacinto Calandrucci,Giacinto Calandrucci,Individual
+250073,160272,Letterio Calapai,Letterio Calapai,Individual
+250074,160273,Nicolas Calas,Nicolas Calas,Individual
+250075,160274,Lawrence Calcagno,Lawrence Calcagno,Individual
+250076,160275,Polidoro Caldara,Polidoro Caldara,Individual
+250077,160276,Randolph Caldecott,Randolph Caldecott,Individual
+250078,160277,Alexander Calder,Alexander Calder,Individual
+250079,160278,Ludmilla Calderon,Ludmilla Calderon,Individual
+250080,160279,Mary Steichen Calderone,Mary Steichen Calderone,Individual
+250081,160280,James Caldwall,James Caldwall,Individual
+250082,160281,Robert Allan Cale,Robert Allan Cale,Individual
+250083,160282,Paolo Caliari,Paolo Caliari,Individual
+250084,160283,Jan van Call I,Jan van Call I,Individual
+250085,160284,Harry Callahan,Harry Callahan,Individual
+250086,160285,Harry Morey Callahan,Harry Morey Callahan,Individual
+250087,160286,Kenneth Callahan,Kenneth Callahan,Individual
+250088,160287,Sophie Calle,Sophie Calle,Individual
+250089,160288,Mark Callen,Mark Callen,Individual
+250090,160289,Mary Callery,Mary Callery,Individual
+250091,160290,Jo Ann Callis,Jo Ann Callis,Individual
+250092,160291,Jacques Callot,Jacques Callot,Individual
+250093,160292,William Callow,William Callow,Individual
+250094,160293,Denys Calvaert,Denys Calvaert,Individual
+250095,160294,Edward Calvert,Edward Calvert,Individual
+250096,160295,Robert Calvin,Robert Calvin,Individual
+250097,160296,Andrea Camassei,Andrea Camassei,Individual
+250098,160297,Giovanni Battista Cambi,Giovanni Battista Cambi,Individual
+250099,160298,Luca Cambiaso,Luca Cambiaso,Individual
+250100,160299,Andrea Cambio,Andrea Cambio,Individual
+250101,160300,Gambattista Cambio,Gambattista Cambio,Individual
+250102,160301,Giovanni Battista Cambio,Giovanni Battista Cambio,Individual
+250103,160302,melio ,melio ,Individual
+250104,160303,Giuseppe Camerata II,Giuseppe Camerata II,Individual
+250105,160304,Charles Cameron,Charles Cameron,Individual
+250106,160305,David Young Cameron,David Young Cameron,Individual
+250107,160306,Julia Margaret Cameron,Julia Margaret Cameron,Individual
+250108,160307,Malcolm Cameron,Malcolm Cameron,Individual
+250109,160308,Melvina Cames,Melvina Cames,Individual
+250110,160309,Vina Jane Cochran Cames,Vina Jane Cochran Cames,Individual
+250111,160310,Albert Camilli,Albert Camilli,Individual
+250112,160311,mligue ,mligue ,Individual
+250113,160312,Girolamo Campagna,Girolamo Campagna,Individual
+250114,160313,Domenico Campagnola,Domenico Campagnola,Individual
+250115,160314,Giulio Campagnola,Giulio Campagnola,Individual
+250116,160315,Angelo Campanella,Angelo Campanella,Individual
+250117,160316,Johann Jacob Campanus,Johann Jacob Campanus,Individual
+250118,160317,Blendon Reed Campbell,Blendon Reed Campbell,Individual
+250119,160318,Charles Campbell,Charles Campbell,Individual
+250120,160319,Colen Campbell,Colen Campbell,Individual
+250121,160320,Donald Campbell,Donald Campbell,Individual
+250122,160321,Douglas Campbell,Douglas Campbell,Individual
+250123,160322,Elmer Simms Campbell,Elmer Simms Campbell,Individual
+250124,160323,Roger Campbell,Roger Campbell,Individual
+250125,160324,Rollington Campbell,Rollington Campbell,Individual
+250126,160325,Rose Campbell,Rose Campbell,Individual
+250127,160326,Heinrich Campendonk,Heinrich Campendonk,Individual
+250128,160327,Giulio Campi,Giulio Campi,Individual
+250129,160328,Massimo Campigli,Massimo Campigli,Individual
+250130,160329,Giovanni Domenico Campiglia,Giovanni Domenico Campiglia,Individual
+250131,160330,Robert Campin,Robert Campin,Individual
+250132,160331,Antonio Campo,Antonio Campo,Individual
+250133,160332,Peter Campus,Peter Campus,Individual
+250134,160333,Vincenzo Camuccini,Vincenzo Camuccini,Individual
+250135,160334,Giambattista Canal,Giambattista Canal,Individual
+250136,160335,Giovanni Antonio Canal,Giovanni Antonio Canal,Individual
+250137,160336,naletto ,naletto ,Individual
+250138,160337,Victor Candell,Victor Candell,Individual
+250139,160338,Peter Candid,Peter Candid,Individual
+250140,160339,Giovanni Candida,Giovanni Candida,Individual
+250141,160340,Pietro Candido,Pietro Candido,Individual
+250142,160341,Giacomo Caneva,Giacomo Caneva,Individual
+250143,160342,Robert Caney,Robert Caney,Individual
+250144,160343,Francesco Cangiullo,Francesco Cangiullo,Individual
+250145,160344,Giovanni Angelo Canini,Giovanni Angelo Canini,Individual
+250146,160345,Joseph Cannella,Joseph Cannella,Individual
+250147,160346,Rafael Canogar,Rafael Canogar,Individual
+250148,160347,Antonio Canova,Antonio Canova,Individual
+250149,160348,Remigio Cantagallina,Remigio Cantagallina,Individual
+250150,160349,Maria Boveri Cantarella,Maria Boveri Cantarella,Individual
+250151,160350,Simone Cantarini,Simone Cantarini,Individual
+250152,160351,Domenico Maria Canuti,Domenico Maria Canuti,Individual
+250153,160352,Michele Canzio,Michele Canzio,Individual
+250154,160353,Ernest Capaldo,Ernest Capaldo,Individual
+250155,160354,Rhys Caparn,Rhys Caparn,Individual
+250156,160355,Antonio Capellan,Antonio Capellan,Individual
+250157,160356,Giacinto Capelli,Giacinto Capelli,Individual
+250158,160357,Bernardino Capitelli,Bernardino Capitelli,Individual
+250159,160358,Giuseppe Capogrossi,Giuseppe Capogrossi,Individual
+250160,160359,Angelica Caporaso,Angelica Caporaso,Individual
+250161,160360,Jan van de Cappelle,Jan van de Cappelle,Individual
+250162,160361,Leonetto Cappiello,Leonetto Cappiello,Individual
+250163,160362,pponi ,pponi ,Individual
+250164,160363,Charles Merrick Capps,Charles Merrick Capps,Individual
+250165,160364,il Cappuccio,il Cappuccio,Individual
+250166,160365,Alessandro Capra,Alessandro Capra,Individual
+250167,160366,Elmer Capshaw,Elmer Capshaw,Individual
+250168,160367,Lily Capson,Lily Capson,Individual
+250169,160368,Jose Manuel Capuletti,Jose Manuel Capuletti,Individual
+250170,160369,Jean Gabriel Caquet,Jean Gabriel Caquet,Individual
+250171,160370,Kathleen Caraccio,Kathleen Caraccio,Individual
+250172,160371,Roberto Caracciolo,Roberto Caracciolo,Individual
+250173,160372,radosso ,radosso ,Individual
+250174,160373,Gian Jacopo Caraglio,Gian Jacopo Caraglio,Individual
+250175,160374,Giovanni Jacopo Caraglio,Giovanni Jacopo Caraglio,Individual
+250176,160375,Vincent Carano,Vincent Carano,Individual
+250177,160376,Girolamo Carattoni,Girolamo Carattoni,Individual
+250178,160377,ravaggio ,ravaggio ,Individual
+250179,160378,Michelangelo Merisi da Caravaggio,Michelangelo Merisi da Caravaggio,Individual
+250180,160379,Polidoro da Caravaggio,Polidoro da Caravaggio,Individual
+250181,160380,Ludovico Carazzari,Ludovico Carazzari,Individual
+250182,160381,Antonio Carbonati,Antonio Carbonati,Individual
+250183,160382,Marin Carburi de Ceffalonie,Marin Carburi de Ceffalonie,Individual
+250184,160383,Agustin Cardenas,Agustin Cardenas,Individual
+250185,160384,Lodovico Cardi,Lodovico Cardi,Individual
+250186,160385,Charles Cardinale,Charles Cardinale,Individual
+250187,160386,Sauro Cardinale,Sauro Cardinale,Individual
+250188,160387,Marco Cardisco,Marco Cardisco,Individual
+250189,160388,Anthony Cardon,Anthony Cardon,Individual
+250190,160389,Vicenzio Carducci,Vicenzio Carducci,Individual
+250191,160390,Vicencio Carducho,Vicencio Carducho,Individual
+250192,160391,Vicente Carducho,Vicente Carducho,Individual
+250193,160392,riani ,riani ,Individual
+250194,160393,Giovanni Cariani,Giovanni Cariani,Individual
+250195,160394,Catherine Carine,Catherine Carine,Individual
+250196,160395,Mathias Carl,Mathias Carl,Individual
+250197,160396,Arthur Beecher Carles,Arthur Beecher Carles,Individual
+250198,160397,Luca Carlevariis,Luca Carlevariis,Individual
+250199,160398,Luca Carlevarijs,Luca Carlevarijs,Individual
+250200,160399,Don Carli,Don Carli,Individual
+250201,160400,Marie Carlier,Marie Carlier,Individual
+250202,160401,Martin Carlin,Martin Carlin,Individual
+250203,160402,Steve Carlisle,Steve Carlisle,Individual
+250204,160403,rlo Veneziano ,rlo Veneziano ,Individual
+250205,160404,Carlo Innocenzo Carlone,Carlo Innocenzo Carlone,Individual
+250206,160405,Emil Carlsen,Emil Carlsen,Individual
+250207,160406,Soren Emil Carlsen,Soren Emil Carlsen,Individual
+250208,160407,Albert Carman,Albert Carman,Individual
+250209,160408,rmontelle ,rmontelle ,Individual
+250210,160409,Fra Carnevale,Fra Carnevale,Individual
+250211,160410,Anthony Caro,Anthony Caro,Individual
+250212,160411,Adolphe Alexandre Joseph Caron,Adolphe Alexandre Joseph Caron,Individual
+250213,160412,Antoine Caron,Antoine Caron,Individual
+250214,160413,Paolo Carosone,Paolo Carosone,Individual
+250215,160414,Vittore Carpaccio,Vittore Carpaccio,Individual
+250216,160415,Francis Bicknell Carpenter,Francis Bicknell Carpenter,Individual
+250217,160416,Ugo da Carpi,Ugo da Carpi,Individual
+250218,160417,Giulio Carpioni,Giulio Carpioni,Individual
+250219,160418,Jack Carr,Jack Carr,Individual
+250220,160419,John Carr,John Carr,Individual
+250221,160420,John Carr of York,John Carr of York,Individual
+250222,160421,Agostino Carracci,Agostino Carracci,Individual
+250223,160422,Annibale Carracci,Annibale Carracci,Individual
+250224,160423,Francesco Carracci,Francesco Carracci,Individual
+250225,160424,Lodovico Carracci,Lodovico Carracci,Individual
+250226,160425,Antoine Carree,Antoine Carree,Individual
+250227,160426,Rosalba Carriera,Rosalba Carriera,Individual
+250228,160427,Leonora Carrington,Leonora Carrington,Individual
+250229,160428,called Carmontelle Carrogis,called Carmontelle Carrogis,Individual
+250230,160429,John Carroll,John Carroll,Individual
+250231,160430,Lewis Carroll,Lewis Carroll,Individual
+250232,160431,Laurent Cars,Laurent Cars,Individual
+250233,160432,Jon Carsman,Jon Carsman,Individual
+250234,160433,Karen Carson,Karen Carson,Individual
+250235,160434,Vincenzo Cartari,Vincenzo Cartari,Individual
+250236,160435,Clarence Holbrook Carter,Clarence Holbrook Carter,Individual
+250237,160436,Erskine Carter,Erskine Carter,Individual
+250238,160437,John Carter,John Carter,Individual
+250239,160438,William Carter,William Carter,Individual
+250240,160439,Ferdinand Cartier,Ferdinand Cartier,Individual
+250241,160440,Norman Carton,Norman Carton,Individual
+250242,160441,Jacopo Carucci,Jacopo Carucci,Individual
+250243,160442,Carl Gustav Carus,Carl Gustav Carus,Individual
+250244,160443,A Cary,A Cary,Individual
+250245,160444,William De La Montagne Cary,William De La Montagne Cary,Individual
+250246,160445,Francesco Casanova,Francesco Casanova,Individual
+250247,160446,Edmond Casarella,Edmond Casarella,Individual
+250248,160447,Michael Cascadden,Michael Cascadden,Individual
+250249,160448,Charles Caseau,Charles Caseau,Individual
