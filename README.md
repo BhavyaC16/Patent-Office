@@ -19,6 +19,8 @@ Run the following commands:
  ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'admin';
  ```
   - Finally, cd into the repository and run `python3 test.py`
+  ## Flutter Project
+  https://github.com/aditya18378/Patent-Office
   
   ## Resources
   
