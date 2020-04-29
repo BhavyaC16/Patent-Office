@@ -29,6 +29,13 @@
 								<li><a href="#register">Sign Up</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
+							{% with messages = get_flashed_messages() %}
+				{%if messages%}
+					{% for message in messages%}
+						<h2>{{ message }}</h2>
+					{% endfor %}
+				{% endif %}
+			{% endwith %}
 						</nav>
 						<ul class="icons">
 									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
@@ -54,6 +61,7 @@
 											<label for="Password">Password</label>
 											<input type="password" name="password" id="email" />
 										</div>
+
 									</div>
 									<ul class="actions">
 										<li><input type="submit" value="Login" class="primary" /></li>
