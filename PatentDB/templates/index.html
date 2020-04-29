@@ -4,8 +4,8 @@
 		<title>PatentDB</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="static/css/main.css" />
+		<noscript><link rel="stylesheet" href="static/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
@@ -15,7 +15,7 @@
 				<!-- Header -->
 					<header id="header">
 						<div class="logo">
-							<img src="./images/logo.png" alt="PatentDB" height="88" width="88">
+							<img src="{{ url_for( 'static' , filename='images/logo.png') }}" alt="PatentDB" height="88" width="88">
 						</div>
 						<div class="content">
 							<div class="inner">
@@ -341,11 +341,11 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<div id="bg"></div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="{{ url_for( 'static' , filename='js/jquery.min.js') }}"></script>
+			<script src="{{ url_for( 'static' , filename='js/browser.min.js') }}"></script>
+			<script src="{{ url_for( 'static' , filename='js/breakpoints.min.js') }}"></script>
+			<script src="{{ url_for( 'static' , filename='js/util.js') }}"></script>
+			<script src="{{ url_for( 'static' , filename='js/main.js') }}"></script>
 
 	</body>
 </html>

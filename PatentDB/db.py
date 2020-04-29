@@ -26,13 +26,13 @@ def index():
 		mysql.connection.commit()
 		cur.close()
 
-		return redirect(url_for('dash_applicant'))
+		return redirect(url_for('dashA'))
 	return render_template('index.html')
 
-app.route('/dash_applicant',methods=['GET','POST'])
+@app.route('/dash_applicant',methods=['GET','POST'])
 def dashA():
-		return render_template('index.html')
+		return render_template('dash_applicant.html')
 
 
 if __name__ == '__main__':
-	app.run()	
+	app.run()
