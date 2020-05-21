@@ -63,9 +63,9 @@ def applicant_menu(user):
             cursor.execute(q1, (keyword,))
             results = cursor.fetchall()
             for patent in results:
-                print("Patent Title:", patent[2])
-                print("Patent Subject:", patent[3])
-                print("Patent Inventor:", patent[4]+"\n")
+                print("Patent Title:", patent[0])
+                print("Patent Subject:", patent[1])
+                print("Patent Inventor:", patent[2]+"\n")
 
 
 def patentee_menu(user):
@@ -197,8 +197,8 @@ def attorney_menu(user):
 
 def researcher_menu():
     choice = 0
-    while(choice!=4):
-        print("1. Search Patents by Title \n2. Search Patents by Subject \n3. View Trending Research Topics \n4. Exit PatentDB ")
+    while(choice!=3):
+        print("1. Search Patents by Title \n2. Search Patents by Subject \n3. Exit PatentDB ")
         choice = int(input())
 
         if(choice==1):
