@@ -46,11 +46,11 @@ The database also allows individuals and companies to apply for patenting their 
   
   ## UML Representation for Schema and Relations:
   
-  // Attach image
+  ![UML Representation for PatentDB](https://github.com/BhavyaC16/Patent-Office/blob/master/UML_Schema.png)
   
   ## Entity-Relationship Diagram:
   
-  // Attach Image
+  ![ER Diagram for PatentDB](https://github.com/BhavyaC16/Patent-Office/blob/master/ER_Diagram.jpg)
   
 
 Further, PatentDB is normalised upto the BCNF level, and all queries have been optimised by careful identification and creation of indices.
